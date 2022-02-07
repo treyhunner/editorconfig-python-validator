@@ -1,0 +1,13 @@
+{
+  "_template": "https://github.com/cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Trey Hunner",
+  "copyright_year": "2022",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "trey@treyhunner.com",
+  "friendly_name": "EditorConfig Python Validator",
+  "github_user": "treyhunner",
+  "license": "MIT",
+  "package_name": "editorconfig_validator",
+  "project_name": "editorconfig-python-validator",
+  "version": "0.0.0"
+}
